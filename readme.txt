@@ -6,6 +6,7 @@ $env:Path = "C:\Users\raul.morales\.local\bin;$env:Path"
  .\.venv\Scripts\activate.ps1  
 
 
+
  ollama.com
     Models
         + gpt-oss
@@ -22,5 +23,13 @@ commands:
 - ollama run <model_name>
 
 
+LangChain
+python.langchain.com
+
+
 Monitoring 
 https://smith.langchain.com/
+
+
+Web search with agents
+https://www.tavily.com
